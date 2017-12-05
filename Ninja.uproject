@@ -7,10 +7,6 @@
 		{
 			"Name": "Paper2D",
 			"Enabled": true
-		},
-		{
-			"Name": "HoudiniEngine",
-			"Enabled": true
 		}
 	]
 }
